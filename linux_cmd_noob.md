@@ -2,8 +2,6 @@
 
 ## A cheat sheet of commands
 
-# Common Linux Commands
-
 This document provides a quick reference for common Linux commands.
 
 ## Basic Commands
